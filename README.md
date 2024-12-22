@@ -64,7 +64,7 @@ nooro-backend/
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/nooro-backend.git
+git clone https://github.com/AkhtarZaman7/backend.git
 cd nooro-backend
 ```
 
