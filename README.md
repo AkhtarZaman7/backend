@@ -223,7 +223,7 @@ Logs are stored in the `logs` directory:
 
 ## 👥 Authors
 
-- Your Name - [@yourusername](https://github.com/yourusername)
+- [@AkhtarZaman7](https://github.com/AkhtarZaman7)
 
 ## 🙏 Acknowledgments
 
